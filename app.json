@@ -18,6 +18,12 @@
         },
         {
             "name": "message.write"
+        },
+        {
+            "name": "slashcommand"
+        },
+        {
+            "name": "networking"
         }
     ],
     "implements": []

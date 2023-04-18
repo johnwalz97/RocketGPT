@@ -1,7 +1,7 @@
 {
     "url": "http://localhost:3000",
-    "username": "",
-    "password": "",
+    "username": "johnwalz97",
+    "password": "my-local-password",
     "ignoredFiles": [
         "**/README.md",
         "**/package-lock.json",
@@ -14,6 +14,7 @@
         "**/*.spec.ts",
         "**/*.test.ts",
         "**/dist/**",
+        "**/data/**",
         "**/.*"
     ]
 }
