@@ -1,0 +1,24 @@
+{
+    "id": "44851cd3-3dbe-4864-b93a-4a498beee9f2",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "John Walz",
+        "homepage": "https://github.com/johnwalz97",
+        "support": "https://github.com/johnwalz97"
+    },
+    "name": "RocketGPT",
+    "nameSlug": "rocketgpt",
+    "classFile": "RocketGptApp.ts",
+    "description": "RocketGPT is a custom app that adds ChatGPT powered AI capabilities to rocket.chat",
+    "permissions": [
+        {
+            "name": "message.read"
+        },
+        {
+            "name": "message.write"
+        }
+    ],
+    "implements": []
+}
